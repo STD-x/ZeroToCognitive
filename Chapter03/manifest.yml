@@ -3,8 +3,8 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: Z2C-rddill
-  host: Z2C
+  name: CH3
+  host: Std-xNodeJsCH3
   disk_quota: 1024M
   services:
     - speech-to-text-srejx-speech-to--1522014391150
